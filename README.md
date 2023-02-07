@@ -1,4 +1,6 @@
-# Barbearia Alura by Brizza Repositório com o objetivo de registrar meu progresso no Programa Desenvolve 2023 do Grupo Boticário em parceria com a Alura praticando o que foi abordado nas aulas. 
+# Barbearia Alura by Brizza 
+
+# Repositório com o objetivo de registrar meu progresso no Programa Desenvolve 2023 do Grupo Boticário em parceria com a Alura praticando o que foi abordado nas aulas. 
 
 ## Stack utilizada *Front-end:* HTML5, CSS3 
 
